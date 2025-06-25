@@ -11,7 +11,9 @@
 **英文原句:**
 > For a few years, after Jonathan Seagull vanished from the beaches of the Flock, it was the strangest bunch of birds that had ever lived on earth.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - For /fɔːr/ - a /ə/ - few /fjuː/ - years /jɪərz/
 - after /ˈɑːftər/ - Jonathan /ˈdʒɒnəθən/ - Seagull /ˈsiːɡʌl/
 - vanished /ˈvænɪʃt/ - from /frəm/ - the /ðə/ - beaches /ˈbiːtʃɪz/
@@ -21,7 +23,11 @@
 - that /ðæt/ - had /həd/ - ever /ˈevər/ - lived /lɪvd/
 - on /ɒn/ - earth /ɜːrθ/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - For_a /fɔːr_ə/ → /fɔːrə/
 - after_Jonathan /ˈɑːftər_ˈdʒɒnəθən/ → /ˈɑːftər_dʒɒnəθən/
 - vanished_from /ˈvænɪʃt_frəm/ → /ˈvænɪʃt_frəm/
@@ -29,6 +35,8 @@
 - bunch_of /bʌntʃ_əv/ → /bʌntʃəv/
 - that_had /ðæt_həd/ → /ðæthəd/
 - lived_on /lɪvd_ɒn/ → /lɪvdɒn/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈFOR a few ˈYEARS | ˈAFter ˈJONathan ˈSEAgull | ˈVANished | ˈSTRANgest | ˈBUNCH | ˈEVer | ˈLIVED | ˈEARTH
@@ -48,7 +56,9 @@
 **英文原句:**
 > Many of them had actually begun to understand the message he had brought, and it was as common to see a young gull flying upside-down and practicing loops as it was to see an old one, unwilling to open his eyes to the glory of flying, boring straight and level out to the fishing boats, hoping for a supper of soggy bread.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Many /ˈmeni/ - of /əv/ - them /ðəm/ - had /həd/ - actually /ˈæktʃuəli/
 - begun /bɪˈɡʌn/ - to /tuː/ - understand /ˌʌndərˈstænd/
 - the /ðə/ - message /ˈmesɪdʒ/ - he /hiː/ - had /həd/ - brought /brɔːt/
@@ -66,7 +76,11 @@
 - hoping /ˈhoʊpɪŋ/ - for /fɔːr/ - a /ə/ - supper /ˈsʌpər/
 - of /əv/ - soggy /ˈsɒɡi/ - bread /bred/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Many_of /ˈmeni_əv/ → /ˈmeniəv/
 - had_actually /həd_ˈæktʃuəli/ → /hədˈæktʃuəli/
 - begun_to /bɪˈɡʌn_tuː/ → /bɪˈɡʌntuː/
@@ -79,6 +93,8 @@
 - straight_and /streɪt_ænd/ → /streɪtænd/
 - out_to /aʊt_tuː/ → /aʊttuː/
 - supper_of /ˈsʌpər_əv/ → /ˈsʌpərəv/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈMAny | acˈTUAlly beˈGUN | ˈUNderstand | ˈMESsage | ˈCOMmon | ˈYOUNG gull | ˈFLYing | ˈUPside-DOWN | ˈPRACTicing | ˈLOOPS | ˈOLD one | unˈWILLing | ˈOPen | ˈGLOry | ˈFLYing | ˈBORing | ˈSTRAIGHT | ˈLEVel | ˈFISHing boats | ˈHOPing | ˈSUPper | ˈSOGgy bread
@@ -99,7 +115,9 @@
 **英文原句:**
 > Fletcher Lynd Seagull and the other students of Jonathan spread their instructor's teaching of freedom and flight in long missionary journeys to every flock on the Coastline.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Fletcher /ˈfletʃər/ - Lynd /lɪnd/ - Seagull /ˈsiːɡʌl/
 - and /ænd/ - the /ðə/ - other /ˈʌðər/ - students /ˈstuːdənts/
 - of /əv/ - Jonathan /ˈdʒɒnəθən/ - spread /spred/
@@ -109,7 +127,11 @@
 - to /tuː/ - every /ˈevri/ - flock /flɒk/
 - on /ɒn/ - the /ðə/ - Coastline /ˈkoʊstlaɪn/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Fletcher_and /ˈfletʃər_ænd/ → /ˈfletʃərænd/
 - and_the /ænd_ðə/ → /ændðə/
 - other_students /ˈʌðər_ˈstuːdənts/ → /ˈʌðər_stuːdənts/
@@ -121,6 +143,8 @@
 - in_long /ɪn_lɔːŋ/ → /ɪnlɔːŋ/
 - to_every /tuː_ˈevri/ → /tuːˈevri/
 - on_the /ɒn_ðə/ → /ɒnðə/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈFLETCher ˈLYND ˈSEAgull | ˈOTHer ˈSTUdents | ˈJONathan | ˈSPREAD | inˈSTRUCtor's | ˈTEACHing | ˈFREEdom | ˈFLIGHT | ˈLONG | ˈMISsionary | ˈJOURneys | ˈEVery | ˈFLOCK | ˈCOASTline
@@ -140,14 +164,22 @@
 **英文原句:**
 > There were remarkable events in those days.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - There /ðeər/ - were /wər/ - remarkable /rɪˈmɑːrkəbəl/ - events /ɪˈvents/
 - in /ɪn/ - those /ðoʊz/ - days /deɪz/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - There_were /ðeər_wər/ → /ðeərwər/
 - remarkable_events /rɪˈmɑːrkəbəl_ɪˈvents/ → /rɪˈmɑːrkəbəl_ɪvents/
 - in_those /ɪn_ðoʊz/ → /ɪnðoʊz/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈTHERE were | reˈMARKable | ˈEVENTS | ˈTHOSE days
@@ -166,14 +198,20 @@
 **英文原句:**
 > Fletcher's own students, and students of their students, were flying with precision and a kind of joy that had never been seen before.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Fletcher's /ˈfletʃərz/ - own /oʊn/ - students /ˈstuːdənts/
 - and /ænd/ - students /ˈstuːdənts/ - of /əv/ - their /ðeər/ - students /ˈstuːdənts/
 - were /wər/ - flying /ˈflaɪɪŋ/ - with /wɪð/ - precision /prɪˈsɪʒən/
 - and /ænd/ - a /ə/ - kind /kaɪnd/ - of /əv/ - joy /dʒɔɪ/
 - that /ðæt/ - had /həd/ - never /ˈnevər/ - been /bɪn/ - seen /siːn/ - before /bɪˈfɔːr/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Fletcher's_own /ˈfletʃərz_oʊn/ → /ˈfletʃərzoʊn/
 - and_students /ænd_ˈstuːdənts/ → /ændˈstuːdənts/
 - of_their /əv_ðeər/ → /əvðeər/
@@ -184,6 +222,8 @@
 - that_had /ðæt_həd/ → /ðæthəd/
 - never_been /ˈnevər_bɪn/ → /ˈnevərbɪn/
 - been_seen /bɪn_siːn/ → /bɪnsiːn/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈFLETCHer's | ˈOWN | ˈSTUdents | ˈSTUdents | ˈFLYing | preˈCIsion | ˈKIND | ˈJOY | ˈNEVer | ˈSEEN | beˈFORE
@@ -202,7 +242,9 @@
 **英文原句:**
 > Here and there were individual birds who flew aerobatics as they practiced, better than Fletcher, sometimes better even than Jonathan himself had flown them.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Here /hɪər/ - and /ænd/ - there /ðeər/ - were /wər/ - individual /ˌɪndɪˈvɪdʒuəl/ - birds /bɜːrdz/
 - who /huː/ - flew /fluː/ - aerobatics /ˌeəroʊˈbætɪks/
 - as /æz/ - they /ðeɪ/ - practiced /ˈpræktɪst/
@@ -211,7 +253,11 @@
 - than /ðæn/ - Jonathan /ˈdʒɒnəθən/ - himself /hɪmˈself/
 - had /həd/ - flown /floʊn/ - them /ðəm/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Here_and /hɪər_ænd/ → /hɪərænd/
 - and_there /ænd_ðeər/ → /ændðeər/
 - individual_birds /ˌɪndɪˈvɪdʒuəl_bɜːrdz/ → /ˌɪndɪˈvɪdʒuəl_bɜːrdz/
@@ -219,6 +265,8 @@
 - better_than /ˈbetər_ðæn/ → /ˈbetərðæn/
 - even_than /ˈiːvən_ðæn/ → /ˈiːvənðæn/
 - had_flown /həd_floʊn/ → /hədˈfloʊn/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈHERE and ˈTHERE | indiˈVIDual ˈBIRDS | ˈFLEW | aeroˈBATics | ˈPRACTiced | ˈBETter | ˈFLETCHer | ˈSOMEtimes | ˈBETter | ˈEVen | ˈJONathan | himˈSELF | ˈFLOWN
@@ -238,7 +286,9 @@
 **英文原句:**
 > The learning curve of a highly motivated seagull goes on steeply off the top of any graph, and now and then there were students who overcame limits so perfectly that they disappeared, as Jonathan had, from the face of an earth too limited to contain them.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - The /ðə/ - learning /ˈlɜːrnɪŋ/ - curve /kɜːrv/
 - of /əv/ - a /ə/ - highly /ˈhaɪli/ - motivated /ˈmoʊtɪˌveɪtɪd/ - seagull /ˈsiːɡʌl/
 - goes /ɡoʊz/ - on /ɒn/ - steeply /ˈstiːpli/
@@ -251,7 +301,11 @@
 - from /frəm/ - the /ðə/ - face /feɪs/ - of /əv/ - an /æn/ - earth /ɜːrθ/
 - too /tuː/ - limited /ˈlɪmɪtɪd/ - to /tuː/ - contain /kənˈteɪn/ - them /ðəm/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - learning_curve /ˈlɜːrnɪŋ_kɜːrv/ → /ˈlɜːrnɪŋkɜːrv/
 - of_a /əv_ə/ → /əvə/
 - highly_motivated /ˈhaɪli_ˈmoʊtɪˌveɪtɪd/ → /ˈhaɪli_moʊtɪˌveɪtɪd/
@@ -273,6 +327,8 @@
 - too_limited /tuː_ˈlɪmɪtɪd/ → /tuːˈlɪmɪtɪd/
 - to_contain /tuː_kənˈteɪn/ → /tuːkənˈteɪn/
 
+</details>
+
 **重读模式:**
 - **主重读:** ˈLEARNing ˈCURVE | ˈHIGHly | ˈMOTivated | ˈSEAgull | ˈGOES on | ˈSTEEPly | ˈOFF | ˈTOP | ˈAny ˈGRAPH | ˈNOW and ˈTHEN | ˈSTUdents | overˈCAME | ˈLIMits | ˈPERfectly | disapˈPEARED | ˈJONathan | ˈFACE | ˈEARTH | ˈLIMited | conˈTAIN
 
@@ -291,15 +347,23 @@
 **英文原句:**
 > It was a golden age, for a while.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - It /ɪt/ - was /wəz/ - a /ə/ - golden /ˈɡoʊldən/ - age /eɪdʒ/
 - for /fɔːr/ - a /ə/ - while /waɪl/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - It_was /ɪt_wəz/ → /ɪtwəz/
 - was_a /wəz_ə/ → /wəzə/
 - golden_age /ˈɡoʊldən_eɪdʒ/ → /ˈɡoʊldəneɪdʒ/
 - for_a /fɔːr_ə/ → /fɔːrə/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈIT was a ˈGOLDen ˈAGE | for a ˈWHILE
@@ -318,14 +382,20 @@
 **英文原句:**
 > Crowds of gulls elbowed in upon Fletcher, to touch the one who had touched Jonathan Seagull, a bird they now considered divine.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Crowds /kraʊdz/ - of /əv/ - gulls /ɡʌlz/ - elbowed /ˈelboʊd/
 - in /ɪn/ - upon /əˈpɒn/ - Fletcher /ˈfletʃər/
 - to /tuː/ - touch /tʌtʃ/ - the /ðə/ - one /wʌn/
 - who /huː/ - had /həd/ - touched /tʌtʃt/ - Jonathan /ˈdʒɒnəθən/ - Seagull /ˈsiːɡʌl/
 - a /ə/ - bird /bɜːrd/ - they /ðeɪ/ - now /naʊ/ - considered /kənˈsɪdərd/ - divine /dɪˈvaɪn/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Crowds_of /kraʊdz_əv/ → /kraʊdzəv/
 - of_gulls /əv_ɡʌlz/ → /əvɡʌlz/
 - elbowed_in /ˈelboʊd_ɪn/ → /ˈelboʊdɪn/
@@ -337,6 +407,8 @@
 - a_bird /ə_bɜːrd/ → /əbɜːrd/
 - they_now /ðeɪ_naʊ/ → /ðeɪnaʊ/
 - now_considered /naʊ_kənˈsɪdərd/ → /naʊkənˈsɪdərd/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈCROWDS | ˈGULLS | ˈELbowed | ˈFLETCHer | ˈTOUCH | ˈONE | ˈTOUCHED | ˈJONathan ˈSEAgull | ˈBIRD | ˈNOW | conˈSIDered | diˈVINE
@@ -357,14 +429,20 @@
 **英文原句:**
 > In vain did Fletcher insist that Jonathan had been a gull like them all, who had learned as they all could learn.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - In /ɪn/ - vain /veɪn/ - did /dɪd/ - Fletcher /ˈfletʃər/ - insist /ɪnˈsɪst/
 - that /ðæt/ - Jonathan /ˈdʒɒnəθən/ - had /həd/ - been /bɪn/
 - a /ə/ - gull /ɡʌl/ - like /laɪk/ - them /ðəm/ - all /ɔːl/
 - who /huː/ - had /həd/ - learned /lɜːrnd/
 - as /æz/ - they /ðeɪ/ - all /ɔːl/ - could /kʊd/ - learn /lɜːrn/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - In_vain /ɪn_veɪn/ → /ɪnveɪn/
 - did_Fletcher /dɪd_ˈfletʃər/ → /dɪdˈfletʃər/
 - that_Jonathan /ðæt_ˈdʒɒnəθən/ → /ðætˈdʒɒnəθən/
@@ -376,6 +454,8 @@
 - as_they /æz_ðeɪ/ → /æzðeɪ/
 - they_all /ðeɪ_ɔːl/ → /ðeɪɔːl/
 - all_could /ɔːl_kʊd/ → /ɔːlkʊd/
+
+</details>
 
 **重读模式:**
 - **主重读:** in ˈVAIN | ˈFLETCHer | inˈSIST | ˈJONathan | ˈGULL | ˈTHEM all | ˈLEARNED | ˈTHEY all | ˈLEARN
@@ -395,13 +475,19 @@
 **英文原句:**
 > They were after him constantly to hear Jonathan's exact words, his precise gestures, to find tiny details about him.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - They /ðeɪ/ - were /wər/ - after /ˈɑːftər/ - him /hɪm/ - constantly /ˈkɒnstəntli/
 - to /tuː/ - hear /hɪər/ - Jonathan's /ˈdʒɒnəθənz/ - exact /ɪɡˈzækt/ - words /wɜːrdz/
 - his /hɪz/ - precise /prɪˈsaɪs/ - gestures /ˈdʒestʃərz/
 - to /tuː/ - find /faɪnd/ - tiny /ˈtaɪni/ - details /ˈdiːteɪlz/ - about /əˈbaʊt/ - him /hɪm/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - They_were /ðeɪ_wər/ → /ðeɪwər/
 - were_after /wər_ˈɑːftər/ → /wərˈɑːftər/
 - after_him /ˈɑːftər_hɪm/ → /ˈɑːftərhɪm/
@@ -412,6 +498,8 @@
 - to_find /tuː_faɪnd/ → /tuːfaɪnd/
 - tiny_details /ˈtaɪni_ˈdiːteɪlz/ → /ˈtaɪni_diːteɪlz/
 - about_him /əˈbaʊt_hɪm/ → /əˈbaʊthɪm/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈTHEY were | ˈAFter him | ˈCONstantly | ˈHEAR | ˈJONathan's | eˈXACT ˈWORDS | preˈCISE | ˈGEStures | ˈFIND | ˈTIny | deˈTAILS | aˈBOUT him
@@ -430,15 +518,23 @@
 **英文原句:**
 > The more they begged for trivia, the more uneasy grew Fletcher Gull.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - The /ðə/ - more /mɔːr/ - they /ðeɪ/ - begged /beɡd/ - for /fɔːr/ - trivia /ˈtrɪviə/
 - the /ðə/ - more /mɔːr/ - uneasy /ʌnˈiːzi/ - grew /ɡruː/ - Fletcher /ˈfletʃər/ - Gull /ɡʌl/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - more_they /mɔːr_ðeɪ/ → /mɔːrðeɪ/
 - begged_for /beɡd_fɔːr/ → /beɡdfɔːr/
 - more_uneasy /mɔːr_ʌnˈiːzi/ → /mɔːr_ʌniːzi/
 - grew_Fletcher /ɡruː_ˈfletʃər/ → /ɡruːˈfletʃər/
+
+</details>
 
 **重读模式:**
 - **主重读:** the ˈMORE | ˈBEGGED | ˈTRIVia | the ˈMORE | unˈEAsy | ˈGREW | ˈFLETCher ˈGULL
@@ -457,7 +553,9 @@
 **英文原句:**
 > When once they had been interested in practicing the message . . . training and flying fast and free and glorious in the sky . . . now they began to slack away from difficult work, and became ever so slightly wild-eyed over legends of Jonathan, as though he were the idol of a fan club.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - When /wen/ - once /wʌns/ - they /ðeɪ/ - had /həd/ - been /bɪn/ - interested /ˈɪntrəstɪd/
 - in /ɪn/ - practicing /ˈpræktɪsɪŋ/ - the /ðə/ - message /ˈmesɪdʒ/
 - training /ˈtreɪnɪŋ/ - and /ænd/ - flying /ˈflaɪɪŋ/ - fast /fæst/
@@ -471,7 +569,11 @@
 - he /hiː/ - were /wər/ - the /ðə/ - idol /ˈaɪdəl/
 - of /əv/ - a /ə/ - fan /fæn/ - club /klʌb/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - When_once /wen_wʌns/ → /wenwʌns/
 - once_they /wʌns_ðeɪ/ → /wʌnsðeɪ/
 - had_been /həd_bɪn/ → /hədbɪn/
@@ -503,6 +605,8 @@
 - of_a /əv_ə/ → /əvə/
 - fan_club /fæn_klʌb/ → /fænklʌb/
 
+</details>
+
 **重读模式:**
 - **主重读:** ˈWHEN ˈONCE | ˈINterested | ˈPRACTicing | ˈMESSage | ˈTRAINing | ˈFLYing | ˈFAST | ˈFREE | ˈGLORious | ˈSKY | ˈNOW | beˈGAN | ˈSLACK aˈWAY | ˈDIFficult | ˈWORK | beˈCAME | ˈEVer so | ˈSLIGHTly | ˈWILD-eyed | ˈLEGends | ˈJONathan | ˈTHOUGH | ˈIDol | ˈFAN club
 
@@ -521,7 +625,9 @@
 **英文原句:**
 > "Gull Fletcher," they asked, "did the Magnificent Jonathan say, 'We are in truth the ideas of the Great Gull . . .' or was it, 'We are in fact the ideas of the Great Gull . . .'?"
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Gull /ɡʌl/ - Fletcher /ˈfletʃər/ - they /ðeɪ/ - asked /æskt/
 - did /dɪd/ - the /ðə/ - Magnificent /mæɡˈnɪfɪsənt/ - Jonathan /ˈdʒɒnəθən/ - say /seɪ/
 - We /wiː/ - are /ɑːr/ - in /ɪn/ - truth /truːθ/ - the /ðə/ - ideas /aɪˈdiːəz/
@@ -530,7 +636,11 @@
 - We /wiː/ - are /ɑːr/ - in /ɪn/ - fact /fækt/ - the /ðə/ - ideas /aɪˈdiːəz/
 - of /əv/ - the /ðə/ - Great /ɡreɪt/ - Gull /ɡʌl/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Gull_Fletcher /ɡʌl_ˈfletʃər/ → /ɡʌlˈfletʃər/
 - they_asked /ðeɪ_æskt/ → /ðeɪæskt/
 - did_the /dɪd_ðə/ → /dɪdðə/
@@ -547,6 +657,8 @@
 - are_in /ɑːr_ɪn/ → /ɑːrɪn/
 - in_fact /ɪn_fækt/ → /ɪnfækt/
 
+</details>
+
 **重读模式:**
 - **主重读:** ˈGULL ˈFLETCHer | ˈASKED | ˈMAGnificent | ˈJONathan | ˈSAY | ˈWE are | in ˈTRUTH | iˈDEAS | ˈGREAT ˈGULL | ˈOR | ˈWAS it | ˈWE are | in ˈFACT | iˈDEAS | ˈGREAT ˈGULL
 
@@ -560,14 +672,20 @@
 **英文原句:**
 > "Please. Call me Fletcher. Just Fletcher Seagull," he would reply, appalled that they would use a term of reverence upon him.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Please /pliːz/ - Call /kɔːl/ - me /miː/ - Fletcher /ˈfletʃər/
 - Just /dʒʌst/ - Fletcher /ˈfletʃər/ - Seagull /ˈsiːɡʌl/
 - he /hiː/ - would /wʊd/ - reply /rɪˈplaɪ/ - appalled /əˈpɔːld/
 - that /ðæt/ - they /ðeɪ/ - would /wʊd/ - use /juːz/
 - a /ə/ - term /tɜːrm/ - of /əv/ - reverence /ˈrevərəns/ - upon /əˈpɒn/ - him /hɪm/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Call_me /kɔːl_miː/ → /kɔːlmiː/
 - Just_Fletcher /dʒʌst_ˈfletʃər/ → /dʒʌstˈfletʃər/
 - he_would /hiː_wʊd/ → /hiːwʊd/
@@ -577,6 +695,8 @@
 - a_term /ə_tɜːrm/ → /ətɜːrm/
 - of_reverence /əv_ˈrevərəns/ → /əvˈrevərəns/
 - upon_him /əˈpɒn_hɪm/ → /əˈpɒnhɪm/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈPLEASE | ˈCALL me | ˈFLETCHer | ˈJUST | ˈFLETCHer ˈSEAgull | ˈWOULD | reˈPLY | aˈPPALLED | ˈWOULD ˈUSE | ˈTERM | ˈREVerence | aˈPON him
@@ -591,7 +711,9 @@
 **英文原句:**
 > "Life isn't a miracle, Official, it's a bore. Your Great Gull Jonathan is a myth somebody made up a long time ago, a fairy tale that the weak believe because they can't stand to face the world as it is."
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Life /laɪf/ - isn't /ˈɪzənt/ - a /ə/ - miracle /ˈmɪrəkəl/
 - Official /əˈfɪʃəl/ - it's /ɪts/ - a /ə/ - bore /bɔːr/
 - Your /jʊr/ - Great /ɡreɪt/ - Gull /ɡʌl/ - Jonathan /ˈdʒɒnəθən/
@@ -602,7 +724,11 @@
 - stand /stænd/ - to /tuː/ - face /feɪs/ - the /ðə/ - world /wɜːrld/
 - as /æz/ - it /ɪt/ - is /ɪz/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Life_isn't /laɪf_ˈɪzənt/ → /laɪfˈɪzənt/
 - isn't_a /ˈɪzənt_ə/ → /ˈɪzəntə/
 - it's_a /ɪts_ə/ → /ɪtsə/
@@ -615,6 +741,8 @@
 - to_face /tuː_feɪs/ → /tuːfeɪs/
 - as_it /æz_ɪt/ → /æzɪt/
 - it_is /ɪt_ɪz/ → /ɪtɪz/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈLIFE ˈISN'T | ˈMIRacle | oˈFFIcial | ˈBORE | ˈYOUR ˈGREAT ˈGULL | ˈJONathan | ˈMYTH | ˈSOMEbody | ˈMADE ˈUP | ˈLONG ˈTIME aˈGO | ˈFAIRy ˈTALE | ˈWEAK | beˈLIEVE | beˈCAUSE | ˈCAN'T ˈSTAND | ˈFACE | ˈWORLD | ˈIT ˈIS
@@ -629,7 +757,9 @@
 **英文原句:**
 > Along about midway into his death-dive, with the sea tilting and growing huge beneath him, there was a great whistling roar directly past his right wing and he was passed in flight by another seagull... passed as though he had been standing on the beach.
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - Along /əˈlɔːŋ/ - about /əˈbaʊt/ - midway /ˈmɪdweɪ/ - into /ˈɪntuː/
 - his /hɪz/ - death-dive /deθ daɪv/ - with /wɪð/ - the /ðə/ - sea /siː/
 - tilting /ˈtɪltɪŋ/ - and /ænd/ - growing /ˈɡroʊɪŋ/ - huge /hjuːdʒ/
@@ -641,7 +771,11 @@
 - as /æz/ - though /ðoʊ/ - he /hiː/ - had /həd/ - been /bɪn/
 - standing /ˈstændɪŋ/ - on /ɒn/ - the /ðə/ - beach /biːtʃ/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - Along_about /əˈlɔːŋ_əˈbaʊt/ → /əˈlɔːŋəˈbaʊt/
 - about_midway /əˈbaʊt_ˈmɪdweɪ/ → /əˈbaʊtˈmɪdweɪ/
 - midway_into /ˈmɪdweɪ_ˈɪntuː/ → /ˈmɪdweɪˈɪntuː/
@@ -663,6 +797,8 @@
 - standing_on /ˈstændɪŋ_ɒn/ → /ˈstændɪŋɒn/
 - on_the /ɒn_ðə/ → /ɒnðə/
 
+</details>
+
 **重读模式:**
 - **主重读:** aˈLONG | ˈMIDway | ˈDEATH-dive | ˈSEA | ˈTILTing | ˈGROWing | ˈHUGE | beˈNEATH | ˈGREAT | ˈWHISTling | ˈROAR | diˈRECTly | ˈPAST | ˈRIGHT ˈWING | ˈPASSED | ˈFLIGHT | aˈNOTHer | ˈSEAgull | ˈPASSED | ˈTHOUGH | ˈSTANDing | ˈBEACH
 
@@ -676,13 +812,21 @@
 **英文原句:**
 > "You can call me Jon."
 
-**音标标注:**
+<details>
+<summary><strong>音标标注</strong></summary>
+
 - You /juː/ - can /kæn/ - call /kɔːl/ - me /miː/ - Jon /dʒɑːn/
 
-**连读标注:**
+</details>
+
+<details>
+<summary><strong>连读标注</strong></summary>
+
 - You_can /juː_kæn/ → /juːkæn/
 - can_call /kæn_kɔːl/ → /kænkɔːl/
 - call_me /kɔːl_miː/ → /kɔːlmiː/
+
+</details>
 
 **重读模式:**
 - **主重读:** ˈYOU can ˈCALL me ˈJON
