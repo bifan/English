@@ -40,8 +40,7 @@ It was a golden age, for a while. Crowds of gulls elbowed in upon Fletcher, to t
 
 But more than one gull, finding it wearying to practice something as difficult as a Pinwheel, flew home musing, “The Great One had purple eyes—not like my eyes, not like the eyes of any gull that ever lived.”
 
-海鸥们发现快速旋转的雄度太高了，便纷纷飞回了察，还一边沉思：“伟大的乔纳森拥有紫色的眼晴和我的不一样，和我见过的所有海鸥都不
-一样。”
+海鸥们发现快速旋转的难度太高了，便纷纷飞回了家，还一边沉思：“伟大的乔纳森拥有紫色的眼晴和我的不一样，和我见过的所有海鸥都不一样。”
 
 The classes changed, with years, from wide soaring poems in flight to hushed talk about Jonathan before and after practice; to long involved recitations on the sand about the Divine One, with no flying ever done by anybody.
 
@@ -80,7 +79,7 @@ And so the pile of pebbles on the Rock of Oneness, in sacred memory of Gull Flet
 
 A few in gull society noticed that by carrying the weight and drag of the branches around with them, the most faithful seagulls became disturbing flyers.
 
-渐渐地，有些海鸥开始意识到，那些钛着地衔着树枝的鸟儿，因为树枝的重量和拖拽产生的阻力，成了鸥群中阻碍飞行的存在。
+渐渐地，有些海鸥开始意识到，那些执着地衔着树枝的鸟儿，因为树枝的重量和拖拽产生的阻力，成了鸥群中阻碍飞行的存在。
 
 The symbol for Jonathan's teaching became a smooth pebble. Then later, any old rock would do. It was the worst possible symbol for a bird who had come to teach the joy of flight, but nobody seemed to notice. At least, nobody who mattered in the Flock.
 
@@ -118,6 +117,7 @@ This was no noisy revolution; there was no shouting, no waving of banners. But i
 他向一个“正经学生”提问道：“你看，他们每周二都会来这儿听你讲课，无非出于三个原因或是认为可以学到什么，或是他们觉得在石堆上多放一块石头会让他们变得神圣，或是因为别的海鸥期待他们能来，你觉得呢？”
 
 "And you have nothing to learn, my nestling?"
+
 “难道你什么都没学到吗，小家伙？”
 
 "No. There's something to learn, but I don't know what it is. A million pebbles can't make me holy if I don't deserve it, and I don't care what the other gulls think about me."
