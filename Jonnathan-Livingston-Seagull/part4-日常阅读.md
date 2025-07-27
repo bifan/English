@@ -3,7 +3,7 @@
 
 For a few years, after Jonathan Seagull vanished from the beaches of the Flock, it was the strangest bunch of birds that had ever lived on earth. Many of them had actually begun to understand the message he had brought, and it was as common to see a young gull flying upside-down and practicing loops as it was to see an old one, unwilling to open his eyes to the glory of flying, boring straight and level out to the fishing boats, hoping for a supper of soggy bread.
 
-strangest /ˈstreɪndʒɪst/ 奇怪的 - supper /ˈsʌpər/ 晚饭 - soggy /ˈsɒɡi/ 湿透的
+strangest /ˈstreɪndʒɪst/ 奇怪的 - unwilling /ʌnˈwɪlɪŋ/ 不愿意的 - supper /ˈsʌpər/ 晚饭 - soggy /ˈsɒɡi/ 湿透的
 
 海鸥乔纳森离开海滩已经好多年了。现在，那里生活着一群地球上最奇怪的海鸥。许多海鸥刚开始领悟乔纳森说过的话。他们上下翻飞、翻着筋斗，这种练习场景几乎与老海鸥们的生存方式一样常见 他们仍旧对那些荣耀的飞行熟视无睹，重复着单调的直线，平直地飞向渔船，只为获得一些湿面包渣。
 
@@ -12,6 +12,8 @@ Fletcher Lynd Seagull and the other students of Jonathan spread their instructor
 福来奇• 林德和乔纳森的其他学生在漫长的教学过程中，向海岸线上的每一群海鸥传授着关于自由和飞行的信条。
 
 There were remarkable events in those days. Fletcher’s own students, and students of their students, were flying with precision and a kind of joy that had never been seen before. Here and there were individual birds who flew aerobatics as they practiced, better than Fletcher, sometimes better even than Jonathan himself had flown them. The learning curve of a highly motivated seagull goes on steeply off the top of any graph, and now and then there were students who overcame limits so perfectly that they disappeared, as Jonathan had, from the face of an earth too limited to contain them.
+
+precision /prɪˈsɪʒən/ 精确 - individual /ˌɪndɪˈvɪdʒuəl/ 个别的 - aerobatics /ˌeərəˈbætɪks/ 特技飞行 - motivated /ˈmoʊtɪveɪtɪd/ 有动机的
 
 那段日子界发生了很多大事。福来奇的一代代学生都享受着精确飞行带来的前所未有的快乐。有的海鸥在练习特技动作时超越了福来奇，有的甚至比乔纳森做得还好。一只极为积极的海鸥的学习进程达到了最高的层次，如同乔纳森做到的一样，他脱离了有限的地球表面，飞向了更为高远的地方。
 
