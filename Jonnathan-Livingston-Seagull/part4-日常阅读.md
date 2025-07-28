@@ -9,6 +9,8 @@ strangest /ˈstreɪndʒɪst/ 奇怪的 - unwilling /ʌnˈwɪlɪŋ/ 不愿意的 
 
 Fletcher Lynd Seagull and the other students of Jonathan spread their instructor’s teaching of freedom and flight in long missionary journeys to every flock on the Coastline.
 
+Lynd /lɪnd/ 林德(姓氏) - spread /spred/ 传播 - instructor /ɪnˈstrʌktər/ 教练 - missionary /ˈmɪʃəˌneri/ 传教的
+
 福来奇• 林德和乔纳森的其他学生在漫长的教学过程中，向海岸线上的每一群海鸥传授着关于自由和飞行的信条。
 
 There were remarkable events in those days. Fletcher’s own students, and students of their students, were flying with precision and a kind of joy that had never been seen before. Here and there were individual birds who flew aerobatics as they practiced, better than Fletcher, sometimes better even than Jonathan himself had flown them. The learning curve of a highly motivated seagull goes on steeply off the top of any graph, and now and then there were students who overcame limits so perfectly that they disappeared, as Jonathan had, from the face of an earth too limited to contain them.
@@ -19,17 +21,25 @@ precision /prɪˈsɪʒən/ 精确 - individual /ˌɪndɪˈvɪdʒuəl/ 个别的 
 
 It was a golden age, for a while. Crowds of gulls elbowed in upon Fletcher, to touch the one who had touched Jonathan Seagull, a bird they now considered divine. In vain did Fletcher insist that Jonathan had been a gull like them all, who had learned as they all could learn. They were after him constantly to hear Jonathan’s exact words, his precise gestures, to find tiny details about him. The more they begged for trivia, the more uneasy grew Fletcher Gull. When once they had been interested in practicing the message . . . training and flying fast and free and glorious in the sky . . . now they began to slack away from difficult work, and became ever so slightly wild-eyed over legends of Jonathan, as though he were the idol of a fan club.
 
+elbowed /ˈelboʊd/ 用肘推挤 - insist /ɪnˈsɪst/ 坚持 - gestures /ˈdʒestʃərz/ 手势 - trivia /ˈtrɪviə/ 琐事
+
 那真是一段金子般绚烂的日子。成群的海鸥亲呢地靠在福来奇身上，只为抚摸这只被乔纳森亲自指导过的海鸥，在他们的心中，这是一件如此神圣的事。尽管福来奇不断地告诉他们，乔纳森也只是一只平凡的海鸥，他所学的一切都已经教给他们了，但他们仍旧日夜跟着福来奇，想听到乔纳森说过的只言片语，或是学到他精确的姿势，不肯放过任何细节。他们越来越执着于细节，这让福来奇十分不安。他们感兴趣的曾经是乔纳森的飞行思想，他的训练技巧、完美的速度以及在空中自由翱翔时的荣耀。如今，他们似乎从这项艰苦工作中解放了出来，沉醉于乔纳森的传奇之中，仅仅把他当成了偶像。
 
 “Gull Fletcher,” they asked, “did the Magnificent Jonathan say, ‘We are in truth the ideas of the Great Gull . . .’ or was it, ‘We are in fact the ideas of the Great Gull . . .’?”
+
+Magnificent /mæɡ'nɪfɪsnt/ 高贵的
 
 “福来奇大鸥，”他们问道，“伟大的乔纳森曾经说的那句名言是“我们其实是伟大的化身’还是‘我们的确是伟大的化身’？”
 
 “Please. Call me Fletcher. Just Fletcher Seagull,” he would reply, appalled that they would use a term of reverence upon him. “And what difference does it make, which word he used? Both are correct, we are ideas of the Great Gull . . .” But he knew they were not satisfied with his answer, they thought he had dodged their question.
 
+reply /rɪˈplaɪ/ 回答 - appalled /əˈpɔːld/ 震惊的 - satisfied /ˈsætɪsfaɪd/ 满意的
+
 “请叫我福来奇吧，我只是普通的海鸥。”他回答道，惊异于他们居然用这样的称呼来标榜自己，“他具体用哪个词有什么重要的呢？两个词是一个意思，都表达了‘我们是伟大的化身’这个道理⋯”但是他知道，海鸥们对这个回答很不满意，他们认为这只是在逃避问题。
 
 “Gull Fletcher, when the Divine Gull Jonathan rose to fly, did he move one step toward the wind . . . or two?” Before he could correct the one question, another was fired. “Gull Fletcher, did the Sacred Gull Jonathan have gray eyes or golden eyes?” The questioner, a bird with gray eyes, was in anguish for one answer only.
+
+Sacred /ˈseɪkrɪd/ 神圣的 - anguish /ˈæŋɡwɪʃ/ 痛苦
 
 “大鸥福来奇，当神圣的大鸥乔纳森准备飞翔时，他是向前迈出一步，还是两步？”没等他提出这个问题的荒谬之处，另一个问题又接踵而至。“大鸥福来奇，伟大的大鸥乔纳森的眼睛是灰色的还是金色的？”提问者是一只灰色眼睛的海鸥，他急切地想知道这个问题的答案。
 
@@ -40,13 +50,19 @@ It was a golden age, for a while. Crowds of gulls elbowed in upon Fletcher, to t
 
 But more than one gull, finding it wearying to practice something as difficult as a Pinwheel, flew home musing, “The Great One had purple eyes—not like my eyes, not like the eyes of any gull that ever lived.”
 
+wearying /ˈwɪriɪŋ/ 令人疲倦的 - flew /fluː/ 飞行(fly的过去式) - musing /ˈmjuːzɪŋ/ 沉思
+
 海鸥们发现快速旋转的难度太高了，便纷纷飞回了家，还一边沉思：“伟大的乔纳森拥有紫色的眼晴和我的不一样，和我见过的所有海鸥都不一样。”
 
 The classes changed, with years, from wide soaring poems in flight to hushed talk about Jonathan before and after practice; to long involved recitations on the sand about the Divine One, with no flying ever done by anybody.
 
+soaring /ˈsɔːrɪŋ/ 高飞的 - poems /ˈpoʊɪmz/ 诗歌 - hushed /hʌʃt/ 安静的 - involved /ɪnˈvɑːlvd/ 复杂的 - recitations /ˌresɪˈteɪʃənz/ 朗诵
+
 一年又一年过去，课程的性质逐渐改变了，开始是在飞行中歌颂乔纳森，之后是飞行练习前后对他的悄声读论，最后变成了站在沙滩上日复一日地背诵乔纳森的种种事迹。最终，飞行练习已不复存在。
 
 Fletcher and the other students of Jonathan were at turns puzzled and correctful and firm and furious at the change, but they were helpless to stop it. They were honored, and worse—revered, but they were no longer heard, and the birds who practiced flying were fewer and fewer.
+
+puzzled /ˈpʌzəld/ 困惑的 - correctful /kəˈrektfəl/ 纠正的 - firm /fɜːrm/ 坚定的 - furious /ˈfjʊriəs/ 愤怒的 - revered /rɪˈvɪrd/ 受尊敬的
 
 福来奇和乔纳森的其他学生对这种变化时而困惑，时而恼怒，时而坚定地力求改变，但又无能为力。
 他们被给予了更多的荣誉，却越来越不受尊敬，失去了话语权。练习飞行的海鸥变得越来越少。
@@ -57,27 +73,39 @@ One by one the Original Students passed away, leaving cold dead bodies behind th
 
 The Flock, seizing upon the bodies, held great tearful ceremonies over them, burying them under enormous cairns of pebbles; each pebble laid in place after a long sorrowing sermon by a deadly solemn bird. The cairns became shrines, and it was required ritual for every gull who wished Oneness to drop a pebble and a doleful speech upon the cairn. No one knew what Oneness was, but it was such a serious deep thing that a gull could never ask without being thought a fool. Why, everybody knows what Oneness is, and the prettier the pebble you drop on Gull Martin's tomb, the better your chance of getting there.
 
+seizing /ˈsiːzɪŋ/ 抓住 - tearful /ˈtɪrfəl/ 含泪的 - ceremonies /ˈserəmoʊniz/ 仪式 - enormous /ɪˈnɔːrməs/ 巨大的 - cairns /kɛrnz/ 石堆 - pebbles /ˈpebəlz/ 鹅卵石 - laid /leɪd/ 放置 - sorrowing /ˈsɑːroʊɪŋ/ 悲伤的 - sermon /ˈsɜːrmən/ 布道 - solemn /ˈsɑːləm/ 庄严的 - shrines /ʃraɪnz/ 神殿 - ritual /ˈrɪtʃuəl/ 仪式 - doleful /ˈdoʊlfəl/ 悲伤的 - speech /spiːtʃ/ 演讲 - tomb /tuːm/ 坟墓
+
 鸥群抬起尸体，为他们举行了盛大的悼念仪式，海鸥们的泪水洒满了大地，令人动容。他们将这些海鸥埋在巨大的卵石坑里，每一块卵石都是悲痛的鸟儿长久地哀悼之后安放的。这个石冢变成了一处圣地。对于任何一只想与万物合一的海鸥来说，在这里放一块卵石并念上一段悼词都是必要的仪式。
 谁也不知道万物合一究竟是什么意思，它如此深奥，任何海鸥都不会问及这个问题，没有谁想当傻瓜。为什么呢？因为他们觉得所有海鸥都知道这是什么意思，放在大鸥马丁坟墓上的卵石越漂亮，就越有机会到达这个境界。
 
 Fletcher passed away last of all. It happened during a long lonely session of the purest and most beautiful flying he had ever done. His body vanished in the midst of a long vertical slow roll, something he had practiced since he first met Jonathan Seagull, and when he vanished he was not setting pebbles or meditating over slogans of Oneness. He was lost in the perfection of his own flight.
 
+midst /mɪdst/ 在...中间 - meditating /ˈmedɪteɪtɪŋ/ 冥想 - slogans /ˈsloʊɡənz/ 口号 - perfection /pərˈfekʃən/ 完美
+
 最后，福来奇也去世了，事情发生在一次独自飞行中，那是他最纯粹、最美丽的飞行。他的身体消失在一段长长的垂直慢速侧翻中，那是他第一次见到海鸥乔纳森时所做的练习。他消失后，没有卵石做成的坟墓，也没有为了践行万物合一而进行的沉思。他消失在了这次完美的飞行中。
 
 When Fletcher didn't show up on the beach in the next week, when he vanished without leaving a note, the Flock was in brief consternation.
 
+brief /briːf/ 短暂的 - consternation /ˌkɑːnsərˈneɪʃən/ 惊愕
+
 下周到来时，福来奇没有出现在海滩上。没有留下只言片语，他就这样消失了。鸥群慌乱起来。
 
 But then they gathered together, and thought, and decided what must have happened. It was announced that Gull Fletcher had been seen, surrounded by the other Seven First Students, standing on what would henceforth be known as the Rock of Oneness, and then the clouds had parted and the Great Gull Jonathan Livingston Seagull himself, clad in royal plumes and golden shells, with a crown of precious pebbles upon his brow, pointing symbolically to sky and sea and wind and earth, had called him up to the Beach of Oneness and Fletcher had magically risen, surrounded by holy rays, and the clouds had closed again over the scene to a great chorus of gull-voices singing.
+
+announced /əˈnaʊnst/ 宣布 - henceforth /ˌhensˈfɔːrθ/ 从今以后 - clad /klæd/ 穿着 - royal /ˈrɔɪəl/ 皇家的 - plumes /pluːmz/ 羽毛 - crown /kraʊn/ 王冠 - symbolically /sɪmˈbɑːlɪkli/ 象征性地 - magically /ˈmædʒɪkli/ 魔法般地 - risen /ˈrɪzən/ 升起 - rays /reɪz/ 光线 - scene /siːn/ 场景 - chorus /ˈkɔːrəs/ 合唱
 
 他们聚到一起，开始思考发生了什么事。有海鸥说他们看到福来奇和他七位最初的学生站在一块石头上，这块石头今后将被称为“合一石”。之后.
 云层突然散开，伟大的海鸥乔纳森出现了，他有象征着荣耀的羽毛，佩戴着金色的贝壳，额头上悬曲着一颗珍贵的鹅卵石皇冠，象征着天空、海洋、风和大地。他召唤着“合一石”上的海鸥，这时，福来奇奇迹般地升了起来，周身围绕着圣洁的光芒，在海鸥们合唱的圣歌中，云层渐渐合上。
 
 And so the pile of pebbles on the Rock of Oneness, in sacred memory of Gull Fletcher, was the biggest pile of pebbles on any coastline anywhere on earth. Other piles were built everywhere in replica, and each Tuesday afternoon the Flock walked over to stand around the pebbles and hear the miracles of Jonathan Livingston Seagull and his Gifted Divine Students. Nobody did any more flying than was absolutely necessary, and when it was necessary they grew strange customs about it. As a kind of status symbol, the more affluent birds began carrying branches from trees in their beaks. The larger and heavier the branch a gull carried, the more attention he earned in the Flock. The larger the branch, the more progressive a flyer he was considered.
 
+pile /paɪl/ 堆积 - replica /ˈreplɪkə/ 复制品 - miracles /ˈmɪrəkəlz/ 奇迹 - affluent /ˈæfluənt/ 富裕的
+
 为了纪念福来奇、“合一石”上的卵石越来越多，成了这个地球海岸线上卵石数量最多的石堆。许多地方都建起了“合一石”的复制品，每周二的下午，海鸥们都围绕在卵石堆旁，倾听海鸥乔纳森和他那些神圣学生的传说。没有一只海鸥进行过必要的飞行之外的练习，此外，他们还衍生出了一种奇的习惯。更富裕的鸟儿会在飞行时用喙衔着树枝作为种身份的象征。树枝越大越重，他们便会得到越多的鸟群的注意，也越会被认为是前卫的飞行者。
 
 A few in gull society noticed that by carrying the weight and drag of the branches around with them, the most faithful seagulls became disturbing flyers.
+
+society /səˈsaɪəti/ 社会 - faithful /ˈfeɪθfəl/ 忠实的 - disturbing /dɪˈstɜːrbɪŋ/ 令人不安的
 
 渐渐地，有些海鸥开始意识到，那些执着地衔着树枝的鸟儿，因为树枝的重量和拖拽产生的阻力，成了鸥群中阻碍飞行的存在。
 
