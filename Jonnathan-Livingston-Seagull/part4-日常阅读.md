@@ -111,17 +111,25 @@ society /səˈsaɪəti/ 社会 - faithful /ˈfeɪθfəl/ 忠实的 - disturbing 
 
 The symbol for Jonathan's teaching became a smooth pebble. Then later, any old rock would do. It was the worst possible symbol for a bird who had come to teach the joy of flight, but nobody seemed to notice. At least, nobody who mattered in the Flock.
 
+smooth /smuːð/ 光滑的 - seemed /siːmd/ 似乎
+
 光滑的鹅卵石成了乔纳森过往的教学的象征，渐渐地却被老旧的硬石头取代了。对为激发飞翔的乐趣而教导飞行的海鸥来说，这无疑是最坏的象征，但是没有人注意到这些，毕竟现在的鸥群中，已经没有谁是举足轻重的了。
 
 On Tuesdays all flying stopped and a listless crowd gathered to stand and hear the Official Flock Student recite. In a matter of only a few years the recitations stratified and hardened into granite dogma. "Ho-Jonathak-Gullak-Great Gullak-Oneak-have-pity-on-we-who-are-lower-than-sandfleas.." On and on, for hours, come Tuesday. It was a mark of excellence for the Official to run the sounds together rapid fire, so they couldn't be recognized as words at all. A few insolent birds whispered that the sound meant nothing anyway, even if one could eventually figure out that there was in fact a word or two buried within it.
+
+listless /ˈlɪstləs/ 无精打采的 - recite /rɪˈsaɪt/ 背诵 - recitations /ˌresɪˈteɪʃənz/ 朗诵 - stratified /ˈstrætɪfaɪd/ 分层的 - hardened /ˈhɑːrdənd/ 变硬的 - granite /ˈɡrænɪt/ 花岗岩 - dogma /ˈdɔːɡmə/ 教条 - excellence /ˈeksələns/ 卓越 - rapid /ˈræpɪd/ 快速的 - recognized /ˈrekəɡnaɪzd/ 认出的 - insolent /ˈɪnsələnt/ 傲慢的 - whispered /ˈwɪspərd/ 窃窃私语 - buried /ˈberid/ 埋藏的
 
 星期二的例行飞行取消了，变成了一群无精打采的海鸥的聚会，内容是一些程式化的朗诵。仅仅几年后，这些朗诵就成了如同花岗岩一般死板的经文。“神圣的乔纳森大鸥深切地同情比沙中的跳蚤还卑下的生灵…”一遍又一遍，这样的内容会在每周二持续好几个小时。那些“正经学生”把快速地朗诵视为杰出的象征，根本没有海鸥能听清其中的字句。一些傲慢的鸟儿窃窃私语：即使能从中依稀分辨出几个词，但从整体上来说，这些话没有任何意义。
 
 Images of Jonathan, pecked from sand-stone, set with great sad purple-shell eyes, sprung up all along the coastline, at every cairn and replica cairn, centers to a worship heavier even than rocks could symbolize.
 
+sprung /sprʌŋ/ 突然出现
+
 乔纳森的形象出现在砂石上，他那犹如紫贝壳般的哀伤的眼睛，突然出现在海岸线所有的石堆上，比任何一块代表其形象的石头都更加沉重。
 
 In less than two hundred years nearly every element of Jonathan's teaching was taken out of daily practice by the simple pronouncement that it was Holy, and beyond the aspiration of common gulls, lower-than-sandfleas. In time, the rites and ceremonies that were planted around the name of Jonathan Seagull became obsessive. Any thinking gull altered course in the air so as not to even fly in sight of the cairns, built as they were on the ceremony and superstition of those who preferred excuses for failure instead of hard work and greatness.
+
+pronouncement /prəˈnaʊnsmənt/ 宣告 - aspiration /ˌæspəˈreɪʃən/ 渴望 - sandfleas /ˈsændˌfliːz/ 沙蚤 - ceremonies /ˈserəmoʊniz/ 仪式 - obsessive /əbˈsesɪv/ 强迫性的 - ceremony /ˈserəmoʊni/ 典礼 - superstition /ˌsuːpərˈstɪʃən/ 迷信 - preferred /prɪˈfɜːrd/ 偏爱的
 
 不到两百年的时间，乔纳森的飞行思想就被短短的几行经文代替了，那句话是：神圣的主啊，没能超越平庸思想的海鸥，将比沙中的跳蚤还要卑下。
 随着时间的推移，围绕着海鸥乔纳森的仪式越来越荒谬，越来越狂热。有想法的海鸥们将课程转移到了天上，甚至不想出现在能看到石堆的地方。
@@ -129,18 +137,26 @@ In less than two hundred years nearly every element of Jonathan's teaching was t
 
 The thinking gulls, paradoxically, closed their minds at the sound of certain words: "Flight," "Cairn," "Great Gull," "Jonathan." On all other matters they were the most lucid, honest birds since Jonathan himself, but at the mention of his name, or any of the other terms so badly mauled by the Official Local Students, their minds snapped shut with the sound of trap doors closing.
 
+paradoxically /ˌpærəˈdɑːksɪkli/ 矛盾地 - lucid /ˈluːsɪd/ 清醒的 - mention /ˈmenʃən/ 提及 - mauled /mɔːld/ 粗暴对待 - snapped /snæpt/ 突然关闭 - trap /træp/ 陷阱
+
 矛盾的是，有思想的海鸥们根本不愿听到“飞翔”“石堆”“伟大的海鸥”“乔纳森”这些词，却正表明他们是自乔纳森以来最清醒、最诚实的鸟儿。
 只要一听到乔纳森的名字，或是听到那些所谓的“正经学生”的陈词滥调，这些明智的鸟儿便会马上锁上心门。
 
 Because they were curious, they began experimenting with flight, though they never used that word. "It's not flight," they'd assure themselves over and again, "It's just a way of finding what's true." So, in rejecting the "Students" they became students themselves. In rejecting the name of Jonathan Seagull, they practiced the message he had brought to the Flock.
 
+curious /ˈkjʊriəs/ 好奇的 - experimenting /ɪkˈsperɪmentɪŋ/ 实验 - assure /əˈʃʊr/ 确保
+
 因为好奇，这些海鸥开始尝试“飞翔”，尽管之前他们从未用过这个词。“这不是‘飞翔’，”他们一遍又一遍地强调，“只是一种寻找真理的方式而已。”所以，尽管他们拒绝承认自己是乔纳森的学生，却成了他真正的学生；他们拒绝盲目崇拜海鸥乔纳森，无形中却按照乔纳森的方法进行着练习。
 
 This was no noisy revolution; there was no shouting, no waving of banners. But individuals like Anthony Seagull, for instance, not fully grown into the feathers of adulthood, began asking questions.
 
+noisy /ˈnɔɪzi/ 喧闹的 - revolution /ˌrevəˈluːʃən/ 革命 - individuals /ˌɪndɪˈvɪdʒuəlz/ 个人 - adulthood /ˈædʌlthʊd/ 成年期
+
 这不是一场喧嚣的革命，没有呐喊，也没有挥动旗帜。但是像安东尼这样羽翼未丰的小海鸥，却开始提出一些问题。
 
 "Now look," he had told his Official Local Student, "the birds who come to hear you every Tuesday come for three reasons, don't they? Because they think they're learning something; because they think that putting another pebble on the Cairn is going to make them holy; or because everybody else expects them to be there. Right?"
+
+Cairn /kɛrn/ 石堆 - expects /ɪkˈspekts/ 期待
 
 他向一个“正经学生”提问道：“你看，他们每周二都会来这儿听你讲课，无非出于三个原因或是认为可以学到什么，或是他们觉得在石堆上多放一块石头会让他们变得神圣，或是因为别的海鸥期待他们能来，你觉得呢？”
 
@@ -154,22 +170,32 @@ This was no noisy revolution; there was no shouting, no waving of banners. But i
 
 "And what is your answer, nestling?" ever so slightly shaken by this heresy. "How do you call the miracle of life? The Great-Gull-Jona-than-Holy-Be-His-Name said that flight.."
 
+slightly /ˈslaɪtli/ 轻微地 - shaken /ˈʃeɪkən/ 震惊的 - heresy /ˈherəsi/ 异端邪说 - miracle /ˈmɪrəkəl/ 奇迹
+
 “那你的答案呢，小家伙？”他知道以前也有这样的异端邪说出现过，“你认为什么是生命的伟大奇迹？以伟大的海鸥乔纳森之名，他说飞翔…”
 
 "Life isn't a miracle, Official, it's a bore. Your Great Gull Jonathan is a myth somebody made up a long time ago, a fairy tale that the weak believe because they can't stand to face the world as it is. Imagine! A seagull who could fly two hundred miles per hour! I've tried it, and the fastest I can go is fifty, diving, and even then I'm mostly out of control. There are laws of flight that cannot be broken, and if you don't think so, you go out there and try it! Do you honestly believe-truly, now-that your great Jonathan Seagull flew two hundred miles per hour?"
+
+myth /mɪθ/ 神话 - fairy tale /ˈferi teɪl/ 童话故事
 
 “生命中没有奇迹，长官，只有无尽的无聊。
 你说的伟大的海鸥乔纳森只是很久以前编造出来的神话，弱者才会相信神话，因为他们无法面对这个真实的世界！你居然说一只海鸥可以达到二百英里每小时的飞行速度！我试过了，我能达到的最快速度就是五十英里每小时，即使这样，我都要失去控制了。有些飞行规律是不可能打破的，如果你不这么想，那就去展示给我看！说实话，你真的相信此时此刻，扪心自问——你伟大的海鸥乔纳森会达到二百英里每小时的飞行速度？”
 
 "And faster," the Official said in perfect blind faith. "And taught others to do so."
 
+blind /blaɪnd/ 盲目的 - faith /feɪθ/ 信仰 - taught /tɔːt/ 教授
+
 “我相信他比这个速度还要快，”长官对乔纳森的信仰十分盲目，“而且他教授给了很多海鸥这个技巧。”
 
 "So goes your fairy tale. But when you can show me that you can fly that fast, Official, then I'll begin listening to what you have to say."
 
+fairy tale /ˈferi teɪl/ 童话故事
+
 “去你的神话吧，长官。除非亲眼所见，我是不会相信你说的话的。”
 
 There was the key and Anthony Seagull knew it the instant he said the words. He didn't have answers, but he knew that he would gratefully, gladly lay down his life to follow any bird who could demonstrate what he was talking about, show him just a few answers in life that worked, that brought excellence and joy into everyday living. Until he found that bird, life would remain gray and bleak, illogical, without purpose; every seagull would remain a coincidental collection of blood and feathers pointed toward oblivion.
+
+gratefully /ˈɡreɪtfəli/ 感激地 - gladly /ˈɡlædli/ 乐意地 - demonstrate /ˈdemənstreɪt/ 证明 - remain /rɪˈmeɪn/ 保持 - illogical /ɪˈlɑːdʒɪkəl/ 不合逻辑的 - coincidental /koʊˌɪnsɪˈdentəl/ 巧合的 - oblivion /əˈblɪviən/ 遗忘
 
 在说出这些话的瞬间，海鸥安东尼便领悟了获得答案的关键。他现在还没有答案，但是他知道自已十分乐意跟在能证明这个事实的海鸥后面，并且心怀感激。他期待有谁能解答生命中的一些疑惑，并将美好和光荣带人每天的生活。在找到这只海鸥之前，或许生命会一如既往地晦暗、凄凉、没有章法、毫无目标。每一只平凡的海鸥都只是血和羽毛的偶然结合，注定会被遗忘。
 
