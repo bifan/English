@@ -201,34 +201,50 @@ gratefully /ˈɡreɪtfəli/ 感激地 - gladly /ˈɡlædli/ 乐意地 - demonstr
 
 Anthony Seagull went his own way, as did more and more other young birds, rejecting the ritual and ceremony that encrusted the name of Jonathan Seagull, sad at the futility of life but at least honest with themselves, brave enough to face the fact that it was futile.
 
+ritual /ˈrɪtʃuəl/ 仪式 - ceremony /ˈserəmoʊni/ 典礼 - encrusted /ɪnˈkrʌstɪd/ 包裹的 - futility /fjuˈtɪləti/ 无意义 - futile /ˈfjuːtaɪl/ 徒劳的
+
 海鸥安东尼决定走自己的路，有越来越多的海鸥和安东尼的想法样，拒绝接受纪念海鸥乔纳森的任何仪式。他们为人生的无意义感到悲伤，但是至少能诚实地面对自己，接受人生并没有意义的事实。
 
 Then one afternoon Anthony was flapping along above the sea, thinking blankly that life is pointless and since pointless is by definition meaningless then the only proper act is to dive down into the ocean and drown. Better not to exist at all than to exist like a seaweed, without meaning or joy.
+
+flapping /ˈflæpɪŋ/ 拍打 - proper /ˈprɑːpər/ 恰当的 - act /ækt/ 行为 - seaweed /ˈsiːwiːd/ 海草
 
 一天下午，安东尼在海上拍打着翅膀，思考着这没有目标的人生，没有目标意味着没有意义，那最恰当的生存方式可能就是潜入海中淹死。与其像一棵海草一样生活，不如选择消失在这个世界上，毕竟这样的生活既没有欢愉也没有意义。
 
 It all made sense. It was pure logic, and Anthony Seagull had all his life tried to abide by honesty and logic. He had to die sooner or later anyway, and he saw no reason to prolong the painful boredom of living.
 
+abide /əˈbaɪd/ 遵守 - prolong /prəˈlɔːŋ/ 延长 - boredom /ˈbɔːrdəm/ 无聊
+
 万物存在即合理。这是纯粹的逻辑，海鸥安东尼的一生都力求诚实，讲究逻辑。他觉得，既然终有一死，那么就没有刻意延长这平淡无聊的生活的理由了。
 
 So he pushed over, from two thousand feet, into a dive straight toward the water, coming down at nearly fifty miles per hour. It was oddly exhilarating, to have made the decision at last. He had found the one answer that made any sense at all.
+
+oddly /ˈɑːdli/ 奇怪地 - exhilarating /ɪɡˈzɪləreɪtɪŋ/ 令人兴奋的 - decision /dɪˈsɪʒən/ 决定
 
 于是他从两千英尺高的地方坠落，达到了五十五英里每小时的速度。这最终的决定生出了奇异的兴奋感。他终于找到了合理的答案。
 他逐渐下坠，海平面倾斜了，在他面前渐渐放大。
 
 Along about midway into his death-dive, with the sea tilting and growing huge beneath him, there was a great whistling roar directly past his right wing and he was passed in flight by another seagull... passed as though he had been standing on the beach. The other bird was a white streak blazing down, a blurred meteor from space. Anthony, startled, bent his wings into dive-brakes and wondered helplessly at the sight.
 
+midway /ˈmɪdweɪ/ 中途 - huge /hjuːdʒ/ 巨大的 - whistling /ˈwɪsəlɪŋ/ 呼啸的 - blurred /blɜːrd/ 模糊的 - meteor /ˈmiːtiər/ 流星 - startled /ˈstɑːrtəld/ 吃惊的 - wondered /ˈwʌndərd/ 想知道 - sight /saɪt/ 景象
+
 在这自杀式坠落的途中，他突然听到了一声震耳欲聋的呼啸声，一只鸟快速飞过他的右侧，好似一道闪电⋯⋯那一瞬间，安东尼感觉自己就像静止地站在沙滩上，而旁边急速飞过一只鸟儿似的。这只鸟有白色的条纹，在天空中划过时犹如一颗模糊的流星。安东尼震惊了，弯曲着翅膀试图减速，他看着眼前的景象，感到十分无助。
 
 The blur dwindled softly toward the sea, flashing down at the wave tops, and then bent into a hard pullup, beak pointing right straight back up into the sky, and rolled. A long vertical slow roll, twisting off into an impossible full circle in the air.
+
+dwindled /ˈdwɪndəld/ 减少 - straight /streɪt/ 笔直的 - twisting /ˈtwɪstɪŋ/ 扭转
 
 这道模糊的闪电在海面上减了速，平滑地越过海平面上涌起的波涛。接着，他猛地飞上天，喙笔直朝上，无所畏惧，然后在天空中转了一个圈。这是一个长长的垂直慢速侧翻，在空气中形成了一个不可能形成的完整的圆圈。
 
 Anthony stalled, watching; forgot where he was, stalled again. "I swear," he said out loud, "I swear that was a seagull!" He turned at once toward the other bird, who apparently hadn't noticed him. "HEY!" he called, as loud as he could. "HEY! WAIT UP!"
 
+stalled /stɔːld/ 失速 - apparently /əˈpærəntli/ 显然
+
 安东尼愣住了，呆呆地望着眼前的景象，忘记了自己身处何方。“我发誓，”他大声说道，“我发誓我看到了一只海鸥！”他立即调头追赶这只鸟，显然，这只鸟并没有注意到安东尼。“嘿！”他用最大的声音呼喊着，“嘿！等下我！”
 
 The gull pitched immediately up on one wing, moving at tremendous speed, blazed back toward him. Anthony in level flight, pulled hard into a vertical bank, and stopped suddenly in the air, as a racing-skier stops at the end of a downhill run.
+
+pitched /pɪtʃt/ 猛然倾斜 - tremendous /trɪˈmendəs/ 巨大的 - blazed /bleɪzd/ 快速移动 - toward /tɔːrd/ 朝向 - racing /ˈreɪsɪŋ/ 疾驰的 - downhill /ˌdaʊnˈhɪl/ 下坡的
 
 这只海鸥立即扇动着一只翅膀猛冲过来，速度惊人，一瞬间，这道光芒冲向了他。安东尼此时正水平飞行，他拼命正直向上飞，却仍旧倾斜着，很快停在了空中，犹如滑雪者停在下坡路的尽头。
 
