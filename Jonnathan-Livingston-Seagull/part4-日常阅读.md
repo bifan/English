@@ -258,6 +258,8 @@ pitched /pɪtʃt/ 猛然倾斜 - tremendous /trɪˈmendəs/ 巨大的 - blazed /
 
 "No! No, that's not it." Anthony was awake and alive for the first time in his life, inspired. "What was that?"
 
+inspired /ɪnˈspaɪərd/ 受启发的
+
 “不，不，我不是想问这个。”安东尼仿佛第一次体验到活着的感觉，觉得备受鼓舞，“你刚刚展现的是什么？”
 
 "Oh, some fun-flying, I guess. A dive and a pullup to a slow roll with a rolling loop off the top. Just messing around. If you really want to do it well it takes a bit of practice, but it's a nice-looking thing, don't you think?"
