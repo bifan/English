@@ -150,7 +150,7 @@ curious /ˈkjʊriəs/ 好奇的 - experimenting /ɪkˈsperɪmentɪŋ/ 实验 - a
 
 This was no noisy revolution; there was no shouting, no waving of banners. But individuals like Anthony Seagull, for instance, not fully grown into the feathers of adulthood, began asking questions.
 
-noisy /ˈnɔɪzi/ 喧闹的 - revolution /ˌrevəˈluːʃən/ 革命 - individuals /ˌɪndɪˈvɪdʒuəlz/ 个人 - adulthood /ˈædʌlthʊd/ 成年期
+noisy /ˈnɔɪzi/ 喧闹的 - revolution /ˌrevəˈluːʃən/ 革命 - individuals /ˌɪndɪˈvɪdʒuəlz/ 个人 - adulthood /ə'dʌlthʊd/ 成年期
 
 这不是一场喧嚣的革命，没有呐喊，也没有挥动旗帜。但是像安东尼这样羽翼未丰的小海鸥，却开始提出一些问题。
 
