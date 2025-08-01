@@ -15,7 +15,7 @@ Lynd /lɪnd/ 林德(姓氏) - spread /spred/ 传播 - instructor /ɪnˈstrʌktə
 
 There were remarkable events in those days. Fletcher’s own students, and students of their students, were flying with precision and a kind of joy that had never been seen before. Here and there were individual birds who flew aerobatics as they practiced, better than Fletcher, sometimes better even than Jonathan himself had flown them. The learning curve of a highly motivated seagull goes on steeply off the top of any graph, and now and then there were students who overcame limits so perfectly that they disappeared, as Jonathan had, from the face of an earth too limited to contain them.
 
-precision /prɪˈsɪʒən/ 精确 - individual /ˌɪndɪˈvɪdʒuəl/ 个别的 - aerobatics /ˌeərəˈbætɪks/ 特技飞行 - motivated /ˈmoʊtɪveɪtɪd/ 有动机的
+precision /prɪˈsɪʒən/ 精确 - individual /ˌɪndɪˈvɪdʒuəl/ 个别的 - aerobatics /ˌerə'bætɪks/ 特技飞行 - motivated /ˈmoʊtɪveɪtɪd/ 有动机的
 
 那段日子界发生了很多大事。福来奇的一代代学生都享受着精确飞行带来的前所未有的快乐。有的海鸥在练习特技动作时超越了福来奇，有的甚至比乔纳森做得还好。一只极为积极的海鸥的学习进程达到了最高的层次，如同乔纳森做到的一样，他脱离了有限的地球表面，飞向了更为高远的地方。
 
