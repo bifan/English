@@ -201,7 +201,7 @@ gratefully /ˈɡreɪtfəli/ 感激地 - gladly /ˈɡlædli/ 乐意地 - demonstr
 
 Anthony Seagull went his own way, as did more and more other young birds, rejecting the ritual and ceremony that encrusted the name of Jonathan Seagull, sad at the futility of life but at least honest with themselves, brave enough to face the fact that it was futile.
 
-ritual /ˈrɪtʃuəl/ 仪式 - ceremony /ˈserəmoʊni/ 典礼 - encrusted /ɪnˈkrʌstɪd/ 包裹的 - futility /fjuˈtɪləti/ 无意义 - futile /ˈfjuːtaɪl/ 徒劳的
+ritual /ˈrɪtʃuəl/ 仪式 - ceremony /ˈserəmoʊni/ 典礼 - encrusted /ɪnˈkrʌstɪd/ 包裹的 - futility /fjuˈtɪləti/ 无意义 - futile /'fjuːtl/ 徒劳的
 
 海鸥安东尼决定走自己的路，有越来越多的海鸥和安东尼的想法样，拒绝接受纪念海鸥乔纳森的任何仪式。他们为人生的无意义感到悲伤，但是至少能诚实地面对自己，接受人生并没有意义的事实。
 
